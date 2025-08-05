@@ -1,1 +1,1 @@
-{"xAxis":{"type":"category","data":["","None","PACM","APES","APES+H-Info"]},"yAxis":{"type":"value"},"series":[],"toolbox":{"show":true,"feature":{"dataZoom":{"yAxisIndex":"none"},"magicType":{"type":["line","bar"]},"restore":{}}},"title":{"top":"0%","left":"center"}}
+{"xAxis":{"type":"category","data":["","None","PACM","APES","APES+H-Info","PACM+APES","PACM+APES+H-Info"]},"yAxis":{"type":"value"},"series":[],"toolbox":{"show":true,"feature":{"dataZoom":{"yAxisIndex":"none"},"magicType":{"type":["line","bar"]},"restore":{}}},"title":{"top":"0%","left":"center"}}
